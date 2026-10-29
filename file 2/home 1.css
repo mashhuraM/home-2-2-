@@ -1,0 +1,249 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.q{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    display: flex;
+    box-shadow: 1px 1px 3px gray;
+    position: fixed;
+    z-index: 10;
+     
+}
+.qq {
+    padding-left: 300px;
+    
+    display: flex;
+    gap: 100px;
+}
+.qq button{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: green;
+    margin-left: 100px;
+    margin-top: 15px;
+    color: white;
+}
+.qq p{
+    padding-top: 20px;
+}
+.w{
+    width: 100%;
+    height: 750px;
+    background-color: white;
+    display: flex;
+}
+.r{
+    width: 100%;
+    height: 750px;
+    background-color: white;
+    
+}
+.rr{
+    padding-top: 80px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+.rr p{
+    padding-top: 20px;
+}
+.rr button{
+    padding: 10px 30px;
+    background-color: #EAF7F1;
+    color: green;
+    border:none;
+    border-radius: 20px;
+    margin-left: 1250px;
+}
+.rr1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.r1,.r2,.r3{
+    width: 27.2%;
+   height: 430px;
+   background-color: #FAFAFA;
+   border-radius: 20px;
+   box-shadow: 1px 1px 3px lightgray;
+}
+.re{
+    color: green;
+}
+
+.rr2{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+h3{
+    padding-top: 10px;
+}
+.er1{
+    padding-top: 10px;
+    display: flex;
+}
+
+.er2{
+    padding-left: 100px;
+}
+.u{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    display: flex;
+}
+.u img{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.u1{
+    padding-top: 200px;
+   padding-left: 100px;
+   font-size: 20px;
+}
+.u1 p{
+    padding-top: 20px;
+}
+.u1 button{
+    padding: 10px 30px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+.y{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+  display: flex;
+}
+.y1{
+    font-size: 20px;
+    padding-top: 120px;
+    padding-left: 170px;
+}
+span{
+    color: green;
+}
+.yy1,.yy2,.yy3{
+    width: 600px;
+    height: 80px;
+    background-color: white;
+    box-shadow: 1px 1px 5px black;
+    margin-left: 150px;
+}
+.yy1 h1,.yy2 h1,.yy3 h1{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.yy1 p,.yy2 p,.yy3 p{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.yy2 p,.yy3 p{
+    padding-top: 30px;
+}
+
+.yy1{
+    margin-top: 100px;
+    height: 150px;
+}
+.yy2,.yy3{
+    margin-top: 30px;
+}
+.y1 p{
+    padding-top: 20px;
+}
+.t{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+   display: flex;
+}
+.t1{
+    width: 80%;
+    height: 530px;
+     background-color: #EAF7F1;
+     border-radius: 50px;
+     margin-left: 140px;
+     display: flex;
+}
+.t3{
+    padding-top: 100px;
+   padding-left: 50px;
+   color: black;
+}
+.t3 p{
+    padding-top: 20px;
+}
+.t3 button{
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+    border: none;
+    margin-top: 50px;
+}
+.i{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    
+}
+.ii{
+    width: 1300px;
+    padding-left: 100px;
+}
+.o{
+    width: 100%;
+    height: 380px;
+    background-color: white;
+    display: flex;
+    font-size: 18px;
+}
+.o1{
+    padding-left: 200px;
+    padding-top: 160px;
+}
+.o2,.o3,.o4{
+    padding-top: 130px;
+    padding-left: 150px;
+}
+.o2 p,.o3 p,.o4 p{
+    padding-top: 20px;
+}
+
+.oi{
+    display: flex;
+    gap: 20px;
+    padding-top: 50px;
+}
+.w1{
+    padding-top: 100px;
+    padding-left: 150px;
+    height: 600px;
+}
+.w2{
+    padding-top: 200px;
+    padding-left: 50px;
+}
+.w2 h1{
+   padding-top: 20px;
+}
+.ret{
+    padding-top: 30px;
+}
+.ret1{
+    padding: 10px 30px;
+    color: white;
+    background-color: green;
+    border:none;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 350px;
+}
